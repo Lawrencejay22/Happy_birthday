@@ -1,4 +1,4 @@
-# 🎂 Happy Birthday, Yasi! ✨
+# 🎂 Happy Birthday! ✨
 
 An interactive, heartfelt birthday celebration web application built with **React 19**, **TypeScript**, and **Vite**.
 
