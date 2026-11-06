@@ -186,6 +186,11 @@ function LetterCard({
                 that make your heart happy.
               </p>
               <p>
+                I am also sorry that I am giving this to you so late. I know this message should have reached 
+                you much sooner, but even though it is late, every word in this letter is honest and comes 
+                from my heart.
+              </p>
+              <p>
                 I have wanted to tell you this for a long time. During the time
                 when things became difficult between us, I was constantly busy
                 and overwhelmed with schoolwork. Our instructors gave us more
